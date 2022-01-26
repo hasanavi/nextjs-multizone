@@ -21,6 +21,11 @@ export default function Blog() {
 						<a>Post 3</a>
 					</Link>
 				</li>
+				<li>
+					<Link href="/post/4">
+						<a>Post 4</a>
+					</Link>
+				</li>
 			</ul>
 			<a href="/">Home</a>
 			<div>
