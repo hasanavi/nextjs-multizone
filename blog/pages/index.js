@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Blog() {
 	return (
 		<div>
-			<h3>This is our blog page yahoo</h3>
+			<h3>This is our blog page yahoo - Staging</h3>
 			<ul>
 				<li>
 					<Link href="/post/1">
