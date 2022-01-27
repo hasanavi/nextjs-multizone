@@ -8,7 +8,7 @@ export default function Home() {
 	return (
 		<div>
 			<Header />
-			<p>This is our homepage Yahoo - Staging 1</p>
+			<p>This is our homepage Yahoo - Staging 2</p>
 			<div>
 				<a href="/blog">Blog</a>
 			</div>
